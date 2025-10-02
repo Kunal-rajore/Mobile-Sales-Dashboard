@@ -100,4 +100,4 @@ Revenue Optimization: Supports sales forecasting and business growth planning.
 
 6. Screenshot / Demo
 
-Example: 
+Dashboard Preview : (https://github.com/Kunal-rajore/Mobile-Sales-Dashboard/blob/main/Snapshot%20Mobile%20Sales%20Dashboard.png)
